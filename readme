@@ -1,0 +1,4 @@
+This is a simple to-do list app that allows you to create tasks, show them and mark them as done or not.
+It's my first code written in English, and my second-ever Python app.
+
+To run the app, open the "ToDoList.py" file on Visual Studio Code.
